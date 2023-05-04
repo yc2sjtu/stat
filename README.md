@@ -1,4 +1,4 @@
-# stat
+# stat references
 ***
-readings for statistical methods
 ## [statsmodels](https://www.statsmodels.org/stable/install.html#installing-statsmodels)
+## [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
