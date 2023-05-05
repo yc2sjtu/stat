@@ -11,5 +11,5 @@
 ## [Chi-Square Test of Independence](https://www.statology.org/chi-square-test-of-independence/)
 ## [One-Way ANOVA](https://www.statology.org/one-way-anova/)
 ### [Bartlett’s Test](https://www.statology.org/bartletts-test/)
-### [Post Hoc Tests]([Post Hoc Tests](https://www.statology.org/anova-post-hoc-tests/))
+### [Post Hoc Tests](https://www.statology.org/anova-post-hoc-tests/)
 ## [Multiple Linear Regression](https://www.statology.org/multiple-linear-regression/)
